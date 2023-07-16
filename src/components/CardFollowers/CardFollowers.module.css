@@ -1,0 +1,22 @@
+.cardFollowersContainer {
+  height: 36px;
+  background-color: var(--color-white);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.cardFollowersLable {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 71px;
+  height: 23px;
+  border-radius: 8px;
+  background-color: var(--color-black);
+  font-size: 10px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  margin-left: 8px;
+}
