@@ -1,0 +1,16 @@
+.albumGridContainer {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  place-items: center;
+  gap: 50px;
+}
+
+.playlistHeader {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 15px;
+}
+
+.playlistHeader h4:last-child {
+  color: var(--color-primary);
+}

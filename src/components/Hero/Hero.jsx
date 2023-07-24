@@ -1,6 +1,6 @@
 import React from "react";
-import HeroTitle from "../HeroTitle/HeroTitle";
-import HeroImage from "../HeroImage/HeroImage";
+import HeroTitle from "./HeroTitle/HeroTitle";
+import HeroImage from "./HeroImage/HeroImage";
 import styles from "./Hero.module.css";
 
 const Hero = () => {

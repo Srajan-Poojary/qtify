@@ -1,0 +1,15 @@
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  bottom: 120px;
+  z-index: 100;
+}
+
+.carouselContainer {
+  margin: 0 50px;
+}
+
+.cardWrapper {
+  z-index: -1;
+}
